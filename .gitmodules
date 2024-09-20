@@ -1,0 +1,3 @@
+[submodule "tracker-web"]
+	path = tracker-web
+	url = https://github.com/SistemasTracker/tracker-web.git
